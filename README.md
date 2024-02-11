@@ -23,6 +23,7 @@ We make use of a locally used agent to take input from the user and communicate 
 ### Note: Search example: 'iPhone 9', the search options are limited since dummy data is used
 
 ## Demo Video
+https://drive.google.com/file/d/1Nrn6CSKUccBGRT9uMs2PzPvJsu2SJjiu/view?usp=drivesdk
 
 ## Assumptions
 
